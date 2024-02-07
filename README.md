@@ -1,5 +1,6 @@
 # FieldFinder
 Propuesta de página web para la reserva online de canchas. 
+Proyecto desarrollado para la asignatura Taller de Integración de Software (2023)
 
 ## Funcionalidades
 Este proyecto consiste en el desarrollo de una plataforma web que permite la reserva en línea de canchas deportivas. La plataforma permite a los usuarios registrados crear perfiles para acceder a las funcionalidades de búsqueda, filtrado y reserva de canchas según sus preferencias de día y horario.

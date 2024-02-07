@@ -11,4 +11,6 @@ Los administradores tienen acceso a un conjunto completo de operaciones CRUD (Cr
 - Gestión completa de canchas, usuarios y reservas por parte de los administradores.
 
 ## Screenshots
-
+![sc](https://github.com/sroachc/Reservas2/assets/71527904/a12cd934-cef3-489c-a694-eb4917e34254)
+![image](https://github.com/sroachc/Reservas2/assets/71527904/94e57b40-e8c8-4acf-8fd0-bbe5c6edcf08)
+![image](https://github.com/sroachc/Reservas2/assets/71527904/6a487eb4-c078-4e34-abef-48ae9b786d9c)

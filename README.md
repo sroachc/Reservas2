@@ -1,7 +1,14 @@
 # FieldFinder
 Propuesta de página web para la reserva online de canchas. 
-[screen-recorder-tue-feb-06-2024-21-30-52.webm](https://github.com/sroachc/Reservas2/assets/71527904/f470b9ac-2fbc-488a-872f-a36b8f6ac77b)
 
 ## Funcionalidades
+Este proyecto consiste en el desarrollo de una plataforma web que permite la reserva en línea de canchas deportivas. La plataforma permite a los usuarios registrados crear perfiles para acceder a las funcionalidades de búsqueda, filtrado y reserva de canchas según sus preferencias de día y horario.
+Los administradores tienen acceso a un conjunto completo de operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para gestionar las canchas, usuarios y reservas en el sistema.
 
-##
+- Creación de perfiles de usuarios para acceso a la plataforma.
+- Búsqueda y filtrado de canchas disponibles.
+- Reserva de canchas por día y horario.
+- Gestión completa de canchas, usuarios y reservas por parte de los administradores.
+
+## Screenshots
+
